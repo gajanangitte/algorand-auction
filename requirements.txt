@@ -1,4 +1,4 @@
-cffi==1.15.1
+dcffi==1.15.1
 commonmark==0.9.1
 msgpack==1.0.4
 mypy==0.910

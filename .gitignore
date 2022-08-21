@@ -7,6 +7,7 @@ __pycache__/
 *.so
 .vscode
 lib/
+bin/
 source/__pycache__/
 source/utils/__pycache__/
 source/classes/__pycache__/

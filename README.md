@@ -24,7 +24,7 @@
 
 The following commands are for `Ubuntu` distro.
 
-0. You should have [Docker Desktop](https://www.docker.com/products/docker-desktop) installed on your system.
+0. You should have [Docker Desktop](https://www.docker.com/products/docker-desktop) installed on your system. Also you must have `Python`, `Pip` and `Virtualenv` installed on your system.
 
 1. Open your terminal in the folder you wish to work in.
 ```bash
@@ -46,4 +46,15 @@ The following commands are for `Ubuntu` distro.
 ```
 
 5. After the sandbox has been successfully created. Follow the commands to clone this repository
-        
+```bash
+    cd ..
+    git clone https://github.com/gajanangitte/algorand-auction
+    cd algorand-auction
+    virtualenv -p py .
+    source bin/activate
+    pip install -r requirements.txt
+    python demo.py
+    python demo2.py
+```
+
+### Enjoy your auction app!

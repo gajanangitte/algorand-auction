@@ -2,7 +2,7 @@
 
 **_[A project developed for AlgoBharat hackathon.]_**
 
-[View our demo video here](www.youtube.com/watch?v=)
+[View our demo video here](https://www.youtube.com/watch?v=0uZAVnnSSd8)
 
 **Powered by Algorand's Sandbox and PyTeal library**
 
